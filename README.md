@@ -7,10 +7,10 @@
 
 ## 2. Activate the virtual environment:
    
-   conda activate signlang
+      conda activate signlang
    
 
 
 ## 3. Install the required dependencies:
    
-   pip install -r requirements.txt
+      pip install -r requirements.txt
